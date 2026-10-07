@@ -21,7 +21,8 @@ END-CHAT lets you **host your own chat server** and have other users connect to 
 * 🎨 Colored terminal interface
 * 🚪 Simple `exit` command to leave chats
 * 🐍 Built with Python
-
+* 🗝️ Randomly generated encryption keys from special, lowercase, and uppercase letters/characters.
+  
 ### How it works
 
 One user starts **Create Server**, which opens a TCP server on the selected port. Other users can choose **Join Chat room/Server** and connect using the server's IP address.
