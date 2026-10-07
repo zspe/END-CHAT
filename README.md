@@ -2,7 +2,7 @@
 Encrypted, Secure, End-To-End Chatting powered by Port Forwarding.
 ===============================================================================
 
-![END-CHAT Screenshot](images/screenshot.png)
+![END-CHAT](images/screenshot.png)
 
 # END-CHAT
 
